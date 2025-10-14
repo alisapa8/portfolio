@@ -6,7 +6,7 @@
 
 Detailed Description
 
-![Running Calculator]()
+![Running Calculator](https://github.com/alisapa8/portfolio/blob/main/images/Calc.png?raw=true)
 
 * [Windows EXE]()
 * [MacOSX]()

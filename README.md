@@ -9,6 +9,6 @@ This Processing sketch, implements a visually styled calculator interface that s
 
 ![Running Calculator](https://github.com/alisapa8/portfolio/blob/main/images/Calc1.png?raw=true)
 
-* [Windows EXE](https://github.com/alisapa8/portfolio/blob/main/src/windows-amd64.zip)
+* [Windows EXE](https://github.com/alisapa8/portfolio/blob/main/src/Calculator/windows-amd64.zip)
 * [MacOSX](https://github.com/alisapa8/portfolio/blob/main/src/macos-aarch64.zip)
 * [Source Code](https://github.com/alisapa8/portfolio/tree/main/src/Calculator)

@@ -8,7 +8,6 @@ This Processing sketch, implements a visually styled calculator interface that s
 
 ![Running Calculator](https://github.com/alisapa8/portfolio/blob/main/images/Calc1.png?raw=true)
 
-
 ![Calculator UML](https://github.com/alisapa8/portfolio/blob/main/images/calculatorUML%20(1).jpg)
 
 * [Windows EXE](https://github.com/alisapa8/portfolio/blob/main/src/Calculator/windows-amd64.zip)
